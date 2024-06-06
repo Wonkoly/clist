@@ -6,9 +6,6 @@ Opciones o flags: Son modificadores que alteran el comportamiento del comando. G
 Argumentos: Son entradas adicionales que el comando necesita para funcionar.
 
 ---
-Por supuesto, aquí tienes una propuesta completa de documentación para tu herramienta de gestión de tareas y proyectos. Esta documentación incluirá una descripción general de la herramienta, así como una descripción detallada de cada comando y sus opciones.
-
-### Documentación
 
 #### Nombre de la Herramienta: clist (CLI Task Manager)
 
